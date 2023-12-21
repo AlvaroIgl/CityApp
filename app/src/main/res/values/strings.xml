@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CityApp</string>
+    <string name="bares">bares</string>
+    <string name="lugares">lugares</string>
+    <string name="parques">parques</string>
+    <string name="back_button">Back</string>
+</resources>
